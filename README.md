@@ -3,6 +3,9 @@
 A lightweight, self-contained real-time chat application written in Go.
 It combines **Gin** for HTTP routing, **Gorilla WebSocket** for live messaging, **Server-Sent Events (SSE)** for history streaming, and an embedded **SQLite** database for persistence. The single-page front-end (HTML + vanilla JS) provides a modern, responsive UI out of the box.
 
+
+[![image.png](https://i.postimg.cc/yxXVjpXQ/image.png)](https://postimg.cc/xN8DTRZM)
+
 ---
 
 ## ✨ Key Features
